@@ -6,7 +6,7 @@ A reverse ip look up tool made with python :p
 you know what it does , give me the list of ips and i get you all domain names related with it, there can be millions of domains :D
 
 
-My Website : [@mrhouse998](https://t.me/mrhouse998)
+My Website : [@itslucifero](https://t.me/itslucifero)
 
 USE : 
 
@@ -18,7 +18,7 @@ and choose threads 🥇
 
 SCREEN
 
-![Screenshot](https://github.com/hrackedz/Reverse-IP-lookup/blob/main/reverse.PNG?raw=true)
+![Screenshot](https://github.com/itslucifero/Reverse-IP-lookup/blob/main/reverse.PNG?raw=true)
 
 
 ENJOY
